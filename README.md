@@ -41,4 +41,4 @@ Um clone simples do Twitter desenvolvido com PHP puro seguindo o padrão MVC (Mo
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/TwitterClone.git
+   git clone https://github.com/MA4RKZ/TwitterClone.git
